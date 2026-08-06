@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Databases & Local Logs
+*.db
+*.sqlite3
+*.log
+
+# Environment variables
+.env
